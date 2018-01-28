@@ -1,9 +1,9 @@
 /bin
-/html/core
-/html/modules/contrib
-/html/profiles/contrib
-/html/themes/contrib
-/html/sites/default/files
-/html/libraries
+/social.toeterniettoe.net/core
+/social.toeterniettoe.net/modules/contrib
+/social.toeterniettoe.net/profiles/contrib
+/social.toeterniettoe.net/themes/contrib
+/social.toeterniettoe.net/sites/default/files
+/social.toeterniettoe.net/libraries
 vendor/
 .idea
