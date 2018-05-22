@@ -44,22 +44,22 @@
             "npm-asset"
         ],
         "installer-paths": {
-            "social.toeterniettoe.net/core": [
+            "core": [
                 "drupal/core"
             ],
-            "social.toeterniettoe.net/modules/contrib/{$name}": [
+            "modules/contrib/{$name}": [
                 "type:drupal-module"
             ],
-            "social.toeterniettoe.net/profiles/contrib/social": [
+            "profiles/contrib/social": [
                 "goalgorilla/open_social"
             ],
-            "social.toeterniettoe.net/profiles/contrib/{$name}": [
+            "profiles/contrib/{$name}": [
                 "type:drupal-profile"
             ],
-            "social.toeterniettoe.net/themes/contrib/{$name}": [
+            "themes/contrib/{$name}": [
                 "type:drupal-theme"
             ],
-            "social.toeterniettoe.net/libraries/{$name}": [
+            "libraries/{$name}": [
                 "type:drupal-library",
                 "type:bower-asset",
                 "type:npm-asset"
